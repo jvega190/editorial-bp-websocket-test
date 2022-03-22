@@ -34,15 +34,7 @@
 						<locale>en</locale>
 					</configuration>
 				</widget>
-				<widget id="craftercms.components.PathNavigator">
-					<configuration>
-						<id>Components</id>
-						<label>Components</label>
-						<icon id="craftercms.icons.Component"/>
-						<rootPath>/site/components</rootPath>
-						<locale>en</locale>
-					</configuration>
-				</widget>
+				
 				<widget id="craftercms.components.PathNavigator">
 					<configuration>
 						<id>Taxonomy</id>
